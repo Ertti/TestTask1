@@ -693,6 +693,9 @@ section#map_sec #map {
   -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.75);
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.75);
 }
+footer#footer .navbar-default {
+  background: none;
+}
 footer#footer .headerNav {
   padding-top: 12px;
   padding-bottom: 10px;
